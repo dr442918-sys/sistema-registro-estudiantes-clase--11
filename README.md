@@ -70,6 +70,12 @@ python3 sistema_estudiantes.py
 - [ ] Validación de datos
 - [ ] Mejorar la interfaz
 
+## Próximas mejoras
+
+- Validar datos ingresados.
+- Agregar almacenamiento de estudiantes.
+- Mejorar la presentación del sistema.
+
 ## Autor
 
 Nombre: RAMIREZ DAVID MOISES
